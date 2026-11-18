@@ -1,6 +1,6 @@
 [project]
 name = "simple-tilde-path-expander"
-version = "0.1.0"
+version = "0.1.1"
 description = "Turns a leading ~ into a home directory and cleans up the rest of the path."
 requires-python = ">=3.10"
 dependencies = []
